@@ -1,0 +1,92 @@
+Job Name		Сбор_Данных_Остатки_Обороты
+Step Name		Сбор_данных_Остатки_Обороты
+Duration		00:55:57
+Sql Severity	16
+Sql Message ID	207
+Operator Emailed	
+Operator Net sent	
+Operator Paged	
+Retries Attempted	0
+
+Message
+Executed as user: MINIMAKS\sql_service. ...ET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated by an aggregate or other SET operation. [SQLSTATE 01003] (Message 8153)  Warning: Null value is eliminated b...  The step failed.
+
+
+
+
+Date		20.07.2021 0:10:11
+Log		Job History (РегистрыСведений_м_ПлаПродажНормОстатков_СрезПоследних_63)
+
+Step ID		1
+Server		ANALYTICS-SQL
+Job Name		РегистрыСведений_м_ПлаПродажНормОстатков_СрезПоследних_63
+Step Name		Step1
+Duration		00:00:02
+Sql Severity	16
+Sql Message ID	208
+Operator Emailed	
+Operator Net sent	
+Operator Paged	
+Retries Attempted	0
+
+Message
+Executed as user: MINIMAKS\sql_service. Недопустимое имя объекта "Trade.dbo._Document253". [SQLSTATE 42S02] (Error 208).  The step failed.
+
+
+Date		20.07.2021 0:10:27
+Log		Job History (РегистрыСведений_м_ПлаПродажНормОстатков_СрезПоследних_59)
+
+Step ID		1
+Server		ANALYTICS-SQL
+Job Name		РегистрыСведений_м_ПлаПродажНормОстатков_СрезПоследних_59
+Step Name		Step1
+Duration		00:00:04
+Sql Severity	16
+Sql Message ID	208
+Operator Emailed	
+Operator Net sent	
+Operator Paged	
+Retries Attempted	0
+
+Message
+Executed as user: MINIMAKS\sql_service. Недопустимое имя объекта "smr_trade_pov.dbo._Document253". [SQLSTATE 42S02] (Error 208).  The step failed.
+
+
+
+Date		20.07.2021 0:10:32
+Log		Job History (РегистрыСведений_м_ПлаПродажНормОстатков_СрезПоследних_56)
+
+Step ID		1
+Server		ANALYTICS-SQL
+Job Name		РегистрыСведений_м_ПлаПродажНормОстатков_СрезПоследних_56
+Step Name		Step1
+Duration		00:00:05
+Sql Severity	15
+Sql Message ID	102
+Operator Emailed	
+Operator Net sent	
+Operator Paged	
+Retries Attempted	0
+
+Message
+Executed as user: MINIMAKS\sql_service. Незакрытые кавычки в конце символьной строки " ELSE T1.Active_ END AS [Активность], T1.Fld11995_RRRef AS [Номенклатура_Ссылка],   T1.Fld11996_ AS [РазмерМИНСкладаДляРаспредЦентра],   T1.Fld11997_ AS [РазмерМИНСкладаДляТП], T1.Fld11998_ AS [МинимальнаяПартияОтгрузки], T1.Fld11999_ AS [СтандартнаяУпаковкаПоставщика],  T1.Fld12000RRef AS [Автор_Ссылка], 56 AS [БазаДанных]   FROM (SELECT T6._Period AS Period_, T6._RecorderRRef AS RecorderRRef, T6._LineNo AS LineNo_, T6._Active AS Active_,   T6._Fld12568_TYPE AS Fld11995_TYPE, T6._Fld12568_RTRef AS Fld11995_RTRef, T6._Fld12568_RRRef   AS Fld11995_RRRef, T6._Fld12569 AS Fld11996_, T6._Fld12570 AS Fld11997_, T6._Fld12571   AS Fld11998_, T6._Fld12572 AS Fld11999_, T6._Fld12573RRef AS Fld12000RRef FROM (SELECT T3.Fld11995_TYPE AS Fld11995_TYPE,   T3.Fld11995_RTRef AS Fld11995_RTRef, T3.Fld11995_RRRef   AS Fld11995_RRRef, T3.MAXPERIOD_ AS MAXPERIOD_,  MAX(T5._RecorderRRef) AS MAXRECORDERRRef FROM (SELECT T4._Fld12568_TYPE AS Fld11995_TYPE, T4._Fld12568_RTRef   AS Fld11995_RTRef,   T4._Fld12568_RRRef AS Fld11995_RRRef, MAX(T4._Period) AS MAXPERIOD_   FROM [trade].dbo._InfoRg12567 T4 WITH(NOLOCK) WHERE T4._Active = 0x01 GROUP BY T4._Fld12568_TYPE,   T4._Fld12568_RTRef, T4._Fld12568_RRRef) T3   INNER JOIN [trade].dbo._InfoRg12567 T5 WITH(NOLOCK) ON T3.Fld11995_TYPE = T5._Fld12568_TYPE AND T3.Fld11995_RTRef = T5._Fld12568_RTRef    AND T3.Fld11995_RRRef = T5._Fld12568_RRRef AND T3.MAXPERIOD_  = T5._Period WHERE T5._Active = 0x01 GROUP BY T3.Fld11995_TYPE, T3.Fld11995_RTRef, T3.Fld11995_RRRef, T3.MAXPERIOD_) T2      INNER JOIN [trade].dbo._InfoRg12567 T6 WITH(NOLOCK) ON T2.Fld11995_TYPE = T6._Fld12568_TYPE AND T2.Fld11995_RTRef = T6._Fld12568_RTRef AND T2.Fld11995_RRRef = T6._Fld12568_RRRef   AND T2.MAXPERIOD_  = T6._Period   AND T2.MAXRECORDERRRef = T6._RecorderRRef) T1 LEFT OUTER JOIN [trade].dbo._Document197 T7 WITH(NOLOCK) ON T7._IDRRef = T1.RecorderRRef". [SQLSTATE 42000] (Error 105)  Неправильный синтаксис около конструкции "Да". [SQLSTATE 42000] (Error 102).  The step failed.
+
+
+
+Date		24.07.2021 13:53:38
+Log		Job History (Обработка Куба Data_analysis)
+
+Step ID		1
+Server		ANALYTICS-SQL
+Job Name		Обработка Куба Data_analysis
+Step Name		DIM Контрагенты
+Duration		00:00:00
+Sql Severity	0
+Sql Message ID	0
+Operator Emailed	
+Operator Net sent	
+Operator Paged	
+Retries Attempted	0
+
+Message
+Executed as user: MINIMAKS\sql_service. <return xmlns="urn:schemas-microsoft-com:xml-analysis"><results xmlns="http://schemas.microsoft.com/analysisservices/2003/xmla-multipleresults"><root xmlns="urn:schemas-microsoft-com:xml-analysis:empty"><Exception xmlns="urn:schemas-microsoft-com:xml-analysis:exception" /><Messages xmlns="urn:schemas-microsoft-com:xml-analysis:exception"><Error ErrorCode="3238133760" Description="Ошибка файловой системы: Во время файловой операции произошла следующая ошибка:  Недостаточно места на диске. ." Source="Службы Microsoft SQL Server 2008 R2 Analysis Services" HelpFile="" /><Error ErrorCode="3239837702" Description="Сервер: Отмена текущей операции вследствие ошибки другой операции в транзакции." Source="Службы Microsoft SQL Server 2008 R2 Analysis Services" HelpFile="" /></Messages></root></results></return>.  The step failed.

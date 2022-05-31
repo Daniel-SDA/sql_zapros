@@ -1,0 +1,1 @@
+select top 1000 * from [dbo].[рн_ОборотыОстатков] where convert(date,Период)='2021-02-05'
